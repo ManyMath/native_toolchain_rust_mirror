@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:native_toolchain_rust/src/android_environment.dart';
+import 'package:native_toolchain_rust_mirror/src/android_environment.dart';
 import 'package:path/path.dart' as path;
 import 'package:pub_semver/pub_semver.dart';
 import 'package:test/test.dart';

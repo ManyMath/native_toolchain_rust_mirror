@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:collection/collection.dart';
 import 'package:native_assets_cli/native_assets_cli.dart';
-import 'package:native_toolchain_rust/rustup.dart';
-import 'package:native_toolchain_rust/src/android_linker_wrapper.dart';
+import 'package:native_toolchain_rust_mirror/rustup.dart';
+import 'package:native_toolchain_rust_mirror/src/android_linker_wrapper.dart';
 import 'package:path/path.dart' as path;
 import 'package:pub_semver/pub_semver.dart';
 
