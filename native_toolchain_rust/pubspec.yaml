@@ -1,7 +1,7 @@
-name: native_toolchain_rust
-description: Library to interact with rustup and cargo when building Dart and Flutter native assets written in Rust.
-version: 0.1.0-dev.7
-homepage: https://github.com/irondash/native_toolchain_rust.git
+name: native_toolchain_rust_mirror
+description: Library to interact with rustup and cargo when building Dart and Flutter native assets written in Rust.  Mirrored by sneurlax from irondash for downstream package-publishing purposes until irondash incorporates library names; use the versions from irondash in production. This crate will be unpublished/deleted as soon as possible.
+version: 0.1.0-dev.8
+homepage: https://github.com/ManyMath/native_toolchain_rust_mirror.git
 
 environment:
   sdk: ">=3.4.0-190.0.dev <4.0.0"
